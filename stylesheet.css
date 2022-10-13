@@ -1,5 +1,6 @@
 #title {
     font-size: 50px;
+    border-bottom: 5px solid black;
 }
 
 a:hover {
@@ -7,20 +8,23 @@ a:hover {
     transition: 0.2s;
 }
 
-div {
+.NorthAmerica {
+    background: lightblue;
     margin: 10px;
     border: 5px solid black;
     padding: 10px;
 }
 
-.NorthAmerica {
-    background: lightblue;
-}
-
 .Europe {
     background: lightgoldenrodyellow;
+    margin: 10px;
+    border: 5px solid black;
+    padding: 10px;
 }
 
 .Asia {
     background: lightpink;
+    margin: 10px;
+    border: 5px solid black;
+    padding: 10px;
 }
