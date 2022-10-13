@@ -1,20 +1,20 @@
-#title{
+#title {
     font-size: 50px;
 }
 
-a:hover{
+a:hover {
     background-color: blue;
     transition: 0.2s;
 }
 
-.NorthAmerica{
+.NorthAmerica {
     background: lightblue
 }
 
-.Europe{
+.Europe {
     background: lightgoldenrodyellow
 }
 
-.Asia{
+.Asia {
     background: lightpink
 }
